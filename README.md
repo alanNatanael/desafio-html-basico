@@ -46,3 +46,9 @@ O site possui um menu com navegação por âncoras, permitindo acesso rápido à
 1. Clone o repositório:
 ```bash
 git clone https://github.com/alanNatanael/desafio-html-basico.git
+
+## 🌐 Projeto Online
+
+Acesse o site publicado no GitHub Pages:
+👉 https://alannatanael.github.io/desafio-html-basico/
+
